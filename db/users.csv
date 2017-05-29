@@ -1,0 +1,5 @@
+id,email,encrypted_password,reset_password_token,reset_password_sent_at,remember_created_at,confirmation_token,confirmed_at,confirmation_sent_at,unconfirmed_email,created_at,updated_at,admin
+3,iwenchak@gmail.com,$2a$11$3Yh.U4tA.AJdXe5QoWSwr.//HDooTLJOPWywjFgjdW1v4C.vwVxx6,,,,C9zykHxmFxxXtxvmxd2D,2017-05-06 07:13:19.394670,2017-05-06 07:13:02.407375,,2017-05-06 07:13:02.406875,2017-05-06 16:28:49.497374,t
+4,ukrainianbeehive@gmail.com,$2a$11$W8PFhMY1DbqEXm/iXeezVOADwmQJzatpdkvPKRaN6QXLZ6QkWsQ/O,,,,yzqb3Ttpytk4zyXjuYYA,2017-05-06 13:24:08.398703,2017-05-06 13:23:55.875864,,2017-05-06 13:23:55.875864,2017-05-07 06:22:31.758329,t
+5,yurad1ron@gmail.com,$2a$11$rVl8OUiqM9KyCvXqcgg1BOfXdIjuC2vhoomWM0Xy1bT.QPQykZWMy,,,,xh4-m6CGsFTPJSz7e9xy,2017-05-06 16:24:06.500064,2017-05-06 16:23:26.030359,,2017-05-06 16:23:26.030359,2017-05-06 16:24:06.502878,f
+10,ivantestersites@gmail.com,$2a$11$4Yhd.8Czvf7.CbKZuaQ9LOZ0giP0KV8z0iDStVoyUPHddOUru8c2C,,,,PVxT85_XDx5s_fc2S5hT,2017-05-06 20:41:29.023529,2017-05-06 20:41:24.683179,,2017-05-06 20:41:24.683179,2017-05-06 20:41:29.027117,f
